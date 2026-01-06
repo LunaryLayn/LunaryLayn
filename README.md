@@ -1,6 +1,11 @@
 # 👋 Hi, I'm Hugo Polo González  
 ### Android Developer | Kotlin Multiplatform | Tech Lead  
 
+<p align="right">
+  🇬🇧 English | <a href="README.es.md">🇪🇸 Español</a>
+</p>
+
+
 💻 Android-focused developer passionate about building **high-performance, scalable and well-architected mobile applications**.  
 🚀 Currently leading the **Android development of [Padmi](https://www.padmi.es)**, owning architecture, releases and technical decisions.
 
