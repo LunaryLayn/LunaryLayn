@@ -14,7 +14,7 @@
 ### 🧑‍💻 Languages
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![Kotlin Nativa (for Kotlin Multiplatform)](https://img.shields.io/badge/Kotlin_Native_for_Kotlin_Multiplatform-6F36BC?logo=kotlin&logoColor=white)
+![Kotlin Native (for Kotlin Multiplatform)](https://img.shields.io/badge/Kotlin_Native_for_Kotlin_Multiplatform-6F36BC?logo=kotlin&logoColor=white)
 
 ---
 
