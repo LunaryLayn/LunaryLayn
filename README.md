@@ -1,99 +1,66 @@
-# 👋 Hi, I'm **Hugo Polo González**  
-### Android Developer & Technical Lead
+## 👋 Hi, I'm Hugo Polo González
 
-Welcome to my GitHub profile. I'm a software engineer specialized in **Android development**, passionate about technology and always looking for new challenges and opportunities to learn.
+💻 Android Developer
 
-📍 *Beriáin, Navarre, Spain*  
-📧 *hupogo2000@gmail.com*  
-🌐 [www.hugopolog.com](https://www.hugopolog.com)  
-
-👉 Read this profile in Spanish: [README.es.md](README.es.md)
+I specialize in Android development using Kotlin and Jetpack Compose. I'm passionate about building intuitive and high‑performance mobile applications.
 
 ---
 
-## 🔨 Technical skills
+## 🛠️ Technical Skills
 
-### 📆 Programming languages
-| | |
-|---|---|
-| ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=Kotlin&logoColor=white) | ![Java](https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white) |
+### Languages & Frameworks
+- **Languages:** Kotlin, Java
+- **UI:** Jetpack Compose, XML
+- **General:** Coroutines & Flows, LiveData, Navigation, Video & Recording (ExoPlayer, MediaProjection/MediaRecorder), Image loading (Coil/Picasso), Storage management, GSON
 
-### 🎨 UI & Design
-| | |
-|---|---|
-| ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?logo=jetpack-compose&logoColor=white) | ![XML](https://img.shields.io/badge/XML-FF9800?logo=codeforces&logoColor=white) |
+### Firebase
+- Authentication, Realtime Database, Firestore
+- Notifications & Cloud Functions
+- Crashlytics & Analytics
 
-### ☁️ Backend & APIs
-| | | |
-|---|---|---|
-| ![Firebase Auth](https://img.shields.io/badge/Firebase%20Auth-FFCA28?logo=firebase&logoColor=white) | ![Realtime DB](https://img.shields.io/badge/Firebase_Realtime_DB-FFCA28?logo=firebase&logoColor=white) | ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?logo=firebase&logoColor=white) |
-| ![Cloud Functions](https://img.shields.io/badge/Cloud_Functions-FFCA28?logo=firebase&logoColor=white) | ![Retrofit](https://img.shields.io/badge/Retrofit-009688?logo=android&logoColor=white) | ![OkHttp](https://img.shields.io/badge/OkHttp-2962FF?logo=android&logoColor=white) |
-| ![Ktor](https://img.shields.io/badge/Ktor-0095D5?logo=Kotlin&logoColor=white) | ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=GraphQL&logoColor=white) | ![Room](https://img.shields.io/badge/Room_DB-795548?logo=android&logoColor=white) |
+### API & Networking
+- Retrofit, OkHttp, Ktor
+- GraphQL
 
-### 🧩 Architectures & Patterns
-- **Clean Architecture**, **MVVM**, **MVI**, **MVP**
-- **Dependency injection** with **Dagger Hilt** and **Kodein**
-- **Coroutines**, **Flows / LiveData**
+### Architecture & Patterns
+- Clean Architecture, MVVM, MVI, MVP
+- Dependency Injection: Dagger Hilt, Kodein
 
-### 🔍 Testing & Quality
-- **JUnit**, **Mockk**, **Espresso**
-- **Crashlytics**, **Analytics**
+### Testing
+- JUnit, Mockk, Espresso
 
-### 📡 Other technologies
-- **ExoPlayer**, **MediaProjection/MediaRecorder**
-- **Coil**, **Picasso**
-- **GSON**
-- **Stripe**, **Google AdMob**
-- **CI/CD**: Git, GitLab, Google Play Console
-- **Project management**: Agile/Scrum, Notion, Trello, Zendesk
-- **Kotlin Multiplatform** (Android/iOS/Desktop/Web)
-- **Crypto & Blockchain**: Solana, Ethereum, BNB, ERC-20/721
-- **Web**: HTML, CSS, JavaScript, WebFlow, WordPress
-- **Other**: Python, Docker, AWS, Azure
+### Databases
+- RoomDB, SQL, NoSQL
+
+
+### DevOps & Tools
+- Git & GitLab
+- Google Play Console (publishing process)
+- CI/CD tools, Agile methodologies (Scrum)
+
+### Monetization
+- Stripe, Google AdMob
 
 ---
 
-## 🚀 Highlighted projects
+## 📱 Featured Projects
 
-### 📱 **Padmi** – Work project  
-An innovative app that helps paddle players improve their game through AI analysis. I led development, managed the team and ensured publication on Google Play.
-
-### 💹 **CryptoWatcher** – Open‑source project  
-Android app (Kotlin + Compose) that fetches and displays cryptocurrency pairs against USD from the Bitfinex API. Features auto‑refresh, search bar, connectivity awareness and unit tests. Code available on GitHub.
-
-### 🎮 **PokeApp** – Open‑source project  
-An app to explore Pokémon using a GraphQL API. Built with Compose, clean architecture and the MVI pattern. Supports pagination and Lottie animations.
-
-### 📊 **Blockfolio** – Personal project  
-Cryptocurrency portfolio manager with Firebase authentication, CoinGecko API integration, local storage via Room and responsive design with Compose.
-
-### 🎬 **Filmic Pro / FirstLight** – Work project  
-Professional video and photography apps with over 1 million downloads. Contributed features, bug fixes and code migration.
-
-### 🍲 **Recipe Pro** – Personal project  
-An app for managing recipes: create, import from websites (schema.org compliant) and share with other users. Includes analytics and monetization via AdMob.
+| Project | Type | Description | Links |
+| --- | --- | --- | --- |
+| **Padmi** | Professional | Innovative padel training app using AI to analyze matches and provide feedback. | [Play Store](https://play.google.com/store/apps/details?id=com.padmi.app&hl=es) |
+| **CryptoWatcher** | Portfolio (open source) | Kotlin app with Jetpack Compose to monitor cryptocurrency pairs (USD). Uses MVVM & Clean Architecture, auto‑refresh, search, dark/light mode. | [GitHub](https://github.com/LunaryLayn/CryptoWatcher) |
+| **PokeApp** | Portfolio (open source) | Kotlin app using Jetpack Compose, Clean Architecture and MVI; consumes a GraphQL API to browse Pokémon, filter, and view details; includes pagination and animations. | [GitHub](https://github.com/LunaryLayn/PokeApp) |
+| **Blockfolio** | Personal | Android app to manage a cryptocurrency portfolio; uses Firebase Auth, Room, Retrofit, Compose, notifications. | (Private) |
+| **Filmic Pro** | Professional | Professional video recording app with +1M downloads. Contributed new features, bug fixes, code migration. | [Play Store](https://play.google.com/store/apps/details?id=com.filmic.filmicpro) |
+| **Recipe Pro** | Personal | Kotlin app with Jetpack Compose for managing and sharing recipes; includes web parsing, analytics and AdMob. | [Play Store](https://play.google.com/store/apps/details?id=com.betteryou.recipepro) |
+| **FirstLight** | Professional | Photography app; contributed to enhancements, new features and bug fixes. | [Play Store](https://play.google.com/store/apps/details?id=com.filmic.firstlight) |
 
 ---
 
-## 💌 Get in touch
-If you have an idea or want to collaborate, feel free to reach out!
+## 📬 Contact
 
-- 📧 **Email**: [hupogo2000@gmail.com](mailto:hupogo2000@gmail.com)
-- 🌐 **Website**: [www.hugopolog.com](https://www.hugopolog.com)
-- 📍 **Location**: Beriáin, Navarre (Spain)
+- 🌐 Website: [hugopolog.com](https://www.hugopolog.com)
+- 📬 Email: hupogo2000@gmail.com
+- 🕊️ Twitter: [@LunaryLayn](https://twitter.com/LunaryLayn)
+- 💼 LinkedIn: [linkedin.com/in/hugo-polo-gonzalez](https://www.linkedin.com/in/hugo-polo-gonzalez)
 
----
-
-## 📊 GitHub stats
-
-<a href='https://github-readme-stats.vercel.app/api?username=LunaryLayn&show_icons=true&theme=dark' target='_blank' rel='noopener'>
-  <img src='https://github-readme-stats.vercel.app/api?username=LunaryLayn&show_icons=true&theme=dark' alt='GitHub stats' />
-</a>
-
-<a href='https://github-readme-stats.vercel.app/api/top-langs/?username=LunaryLayn&layout=compact&theme=dark' target='_blank' rel='noopener'>
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=LunaryLayn&layout=compact&theme=dark' alt='Top languages' />
-</a>
-
----
-
-> *“I'm always ready for the next technological challenge.”*
