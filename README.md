@@ -166,6 +166,8 @@
 | **Recipe Pro** | Personal | Recipe manager with parsing, analytics and AdMob. | [Play Store](https://play.google.com/store/apps/details?id=com.betteryou.recipepro) |
 | **FirstLight** | Professional | Photography app – features, fixes and improvements. | [Play Store](https://play.google.com/store/apps/details?id=com.filmic.firstlight) |
 
+Full Tech stacks for proffesional projects available on my CV: [Download my CV here](https://drive.google.com/drive/folders/1O8ZZgB2JmCRn0gIfFQt_GanwY3ZFBX4N?usp=sharing)
+
 ---
 
 ## 🌍 Other Technologies
