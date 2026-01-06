@@ -2,7 +2,7 @@
 ### Android Developer | Kotlin Multiplatform | Tech Lead  
 
 💻 Android-focused developer passionate about building **high-performance, scalable and well-architected mobile applications**.  
-🚀 Currently leading the **Android development of Padmi**, owning architecture, releases and technical decisions.
+🚀 Currently leading the **Android development of [Padmi](https://www.padmi.es)**, owning architecture, releases and technical decisions.
 
 🌐 **Web portfolio:** https://lunarylayn.github.io  
 📬 **Email:** hupogo2000@gmail.com  
@@ -14,7 +14,7 @@
 ### 🧑‍💻 Languages
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-6F36BC?logo=kotlin&logoColor=white)
+![Kotlin Nativa (for Kotlin Multiplatform)](https://img.shields.io/badge/Kotlin_Native_for_Kotlin_Multiplatform-6F36BC?logo=kotlin&logoColor=white)
 
 ---
 
