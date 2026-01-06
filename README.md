@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Hugo Polo González  
 ### Android Developer | Kotlin Multiplatform | Tech Lead  
 
-<p align="right">
+<p align="left">
   🇬🇧 English | <a href="README.es.md">🇪🇸 Español</a>
 </p>
 
