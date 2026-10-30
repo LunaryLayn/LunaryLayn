@@ -14,6 +14,22 @@
 
 ---
 
+## 📱 Featured Projects
+
+| Project | Type | Description | Links |
+|-------|------|-------------|-------|
+| **Padmi** | Professional | Currently leading Android development. AI-powered padel analysis app. | [Play Store](https://play.google.com/store/apps/details?id=com.padmi.app&hl=es) |
+| **CryptoWatcher** | Open Source | Kotlin + Compose crypto tracker using MVVM & Clean Architecture. | [GitHub](https://github.com/LunaryLayn/CryptoWatcher) |
+| **PokeApp** | Open Source | Compose app using GraphQL, MVI, pagination and animations. | [GitHub](https://github.com/LunaryLayn/PokeApp) |
+| **Blockfolio** | Personal | Crypto portfolio manager with Firebase, Room and Compose. | Private |
+| **Filmic Pro** | Professional | Pro video recording app (+1M downloads). | [Play Store](https://play.google.com/store/apps/details?id=com.filmic.filmicpro) |
+| **Recipe Pro** | Personal | Recipe manager with parsing, analytics and AdMob. | [Play Store](https://play.google.com/store/apps/details?id=com.betteryou.recipepro) |
+| **FirstLight** | Professional | Photography app – features, fixes and improvements. | [Play Store](https://play.google.com/store/apps/details?id=com.filmic.firstlight) |
+
+Full Tech stacks for proffesional projects available on my CV: [Download my CV here](https://drive.google.com/drive/folders/1O8ZZgB2JmCRn0gIfFQt_GanwY3ZFBX4N?usp=sharing)
+
+---
+
 ## 🛠️ Android Development
 
 ### 🧑‍💻 Languages
@@ -156,22 +172,6 @@
 ![Code Reviews](https://img.shields.io/badge/Code_Reviews-4CAF50)
 ![Mentoring](https://img.shields.io/badge/Mentoring-009688)
 ![Release Management](https://img.shields.io/badge/Release_Management-FF5722)
-
----
-
-## 📱 Featured Projects
-
-| Project | Type | Description | Links |
-|-------|------|-------------|-------|
-| **Padmi** | Professional | Currently leading Android development. AI-powered padel analysis app. | [Play Store](https://play.google.com/store/apps/details?id=com.padmi.app&hl=es) |
-| **CryptoWatcher** | Open Source | Kotlin + Compose crypto tracker using MVVM & Clean Architecture. | [GitHub](https://github.com/LunaryLayn/CryptoWatcher) |
-| **PokeApp** | Open Source | Compose app using GraphQL, MVI, pagination and animations. | [GitHub](https://github.com/LunaryLayn/PokeApp) |
-| **Blockfolio** | Personal | Crypto portfolio manager with Firebase, Room and Compose. | Private |
-| **Filmic Pro** | Professional | Pro video recording app (+1M downloads). | [Play Store](https://play.google.com/store/apps/details?id=com.filmic.filmicpro) |
-| **Recipe Pro** | Personal | Recipe manager with parsing, analytics and AdMob. | [Play Store](https://play.google.com/store/apps/details?id=com.betteryou.recipepro) |
-| **FirstLight** | Professional | Photography app – features, fixes and improvements. | [Play Store](https://play.google.com/store/apps/details?id=com.filmic.firstlight) |
-
-Full Tech stacks for proffesional projects available on my CV: [Download my CV here](https://drive.google.com/drive/folders/1O8ZZgB2JmCRn0gIfFQt_GanwY3ZFBX4N?usp=sharing)
 
 ---
 
